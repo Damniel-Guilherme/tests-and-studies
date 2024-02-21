@@ -3,7 +3,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-    $('#peso').mask('000.00', { reverse: true });
+    $('#peso').mask('000.000', { reverse: true });
 });
 
 $(document).ready(function() {
